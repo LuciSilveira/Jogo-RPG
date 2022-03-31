@@ -1,0 +1,16 @@
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\bin\Debug\net5.0\PROJETO JOGO RPG.exe
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\bin\Debug\net5.0\PROJETO JOGO RPG.deps.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\bin\Debug\net5.0\PROJETO JOGO RPG.runtimeconfig.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\bin\Debug\net5.0\PROJETO JOGO RPG.runtimeconfig.dev.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\bin\Debug\net5.0\PROJETO JOGO RPG.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\bin\Debug\net5.0\ref\PROJETO JOGO RPG.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\bin\Debug\net5.0\PROJETO JOGO RPG.pdb
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\obj\Debug\net5.0\PROJETO JOGO RPG.csproj.AssemblyReference.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\obj\Debug\net5.0\PROJETO JOGO RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\obj\Debug\net5.0\PROJETO JOGO RPG.AssemblyInfoInputs.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\obj\Debug\net5.0\PROJETO JOGO RPG.AssemblyInfo.cs
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\obj\Debug\net5.0\PROJETO JOGO RPG.csproj.CoreCompileInputs.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\obj\Debug\net5.0\PROJETO JOGO RPG.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\obj\Debug\net5.0\ref\PROJETO JOGO RPG.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\obj\Debug\net5.0\PROJETO JOGO RPG.pdb
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\PROJETO JOGO RPG\obj\Debug\net5.0\PROJETO JOGO RPG.genruntimeconfig.cache
